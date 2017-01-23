@@ -3,15 +3,9 @@
 // angular 1 Vendor Import
 require('angular');
 
-require('bootstrap/dist/js/bootstrap.min');
-
-require('datatables/media/js/jquery.dataTables.min');
-require('drmonty-datatables-colvis/js/dataTables.colVis');
-require('datatables.net-colreorder/js/dataTables.colReorder');
-
 require('patternfly/dist/js/patternfly.min.js');
-require('angular-ui-bootstrap/ui-bootstrap.js');
-require('angular-ui-bootstrap/ui-bootstrap-tpls.js');
+require('angular-ui-bootstrap/dist/ui-bootstrap.js');
+require('angular-ui-bootstrap/dist/ui-bootstrap-tpls.js');
 require('angular-patternfly/dist/angular-patternfly');
 require('angular-ui-router/release/angular-ui-router');
 require('lodash/lodash');
