@@ -17,11 +17,11 @@ MenuModule.config(($stateProvider, $urlRouterProvider) => {
     url: '/dashboard',
     template: '<pfdemo-menu></pfdemo-menu>',
   })
-  .state('menu.dashboardstatus', {
+  .state('dashboardstatus', {
     url: '/status',
     template: '<dashboard-status></dashboard-status>'
   })
-  .state('menu.dashboarddetail', {
+  .state('dashboarddetail', {
     url: '/detail',
     template: '<dashboard-detail></dashboard-detail>'
   })
