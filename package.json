@@ -10,7 +10,7 @@
     "@angular/router": "^3.2.0",
     "@angular/upgrade": "^2.3.0-beta.0",
     "angular": "^1.5.8",
-    "angular-patternfly": "patternfly/angular-patternfly#6d81a4079930120e62f428ba78d850f19adb3d97",
+    "angular-patternfly": "4.0.0-alpha.2",
     "angular-route": "^1.5.8",
     "angular-ui-bootstrap": "2.4.x",
     "angular-ui-router": "^0.4.2",
@@ -18,7 +18,7 @@
     "core-js": "^2.4.1",
     "jquery": "^3.1.1",
     "ng2-bootstrap": "^1.1.16",
-    "patternfly": "3.18.1",
+    "patternfly": "4.0.0-alpha.2",
     "rxjs": "5.0.3",
     "zone.js": "^0.7.6"
   },
